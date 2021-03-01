@@ -1,3 +1,3 @@
 # aprendendo-git
 aprendendo-git
-1. Leonardo
+1. Leonardo Kondrat
