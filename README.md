@@ -1,3 +1,3 @@
 # aprendendo-git
 aprendendo-git
-1. Daniel
+1. Daniel Conte
