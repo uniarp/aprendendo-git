@@ -7,3 +7,4 @@ aprendendo-git
 1. Hugo
 1. Sam
 1. Daniel Conte
+1. Bruno Pasini
