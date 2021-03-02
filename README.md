@@ -1,5 +1,6 @@
 # aprendendo-git
 aprendendo-git
+1. Leonardo Kondrat
 1. Saul
 1. Matheus
 1. Alexandre Tesser
