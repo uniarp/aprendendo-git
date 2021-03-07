@@ -1,6 +1,6 @@
 # aprendendo-git
 aprendendo-git
-
+1. Adriel
 1. Bruno
 
 1. Leonardo Kondrat
